@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evaly2Demo</string>
+
+
+    <string name="strike_text1"> <strike>৳1,10,000</strike> </string>
+    <string name="strike_text2"> <strike>৳30,000</strike> </string>
+    <string name="strike_text3"> <strike>৳1,40,000</strike> </string>
+
+</resources>
